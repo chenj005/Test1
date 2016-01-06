@@ -9,7 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-//  tangyinpeng是傻逼
 
 @end
 
